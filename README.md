@@ -33,7 +33,7 @@ Docker化paas即caas
   - 背景色 #2EA9CD
   - 字体色 #333333
   
-<div style="float:left;color:#333333;background-color:#2EA9CD;width:100%;height:40px;"></div>
+
   
   
   
